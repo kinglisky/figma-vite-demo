@@ -1,0 +1,8 @@
+{
+  "name": "figma-coachman",
+  "id": "",
+  "api": "1.0.0",
+  "main": "dist/core.cjs.js",
+  "ui": "dist/index.html",
+  "editorType": ["figma"]
+}

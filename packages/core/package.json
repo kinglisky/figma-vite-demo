@@ -1,0 +1,18 @@
+{
+  "name": "figma-vite-core",
+  "private": false,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "tsc && vite build -w",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "figma-vite-common": "*"
+  },
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.42.1",
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0"
+  }
+}
