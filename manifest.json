@@ -2,7 +2,7 @@
   "name": "figma-vite-demo",
   "id": "",
   "api": "1.0.0",
-  "main": "dist/core.cjs.js",
+  "main": "dist/core.iife.js",
   "ui": "dist/index.html",
   "editorType": ["figma"]
 }

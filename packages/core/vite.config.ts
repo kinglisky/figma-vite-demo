@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, 'src/index.ts'),
-      formats: ['cjs'],
+      formats: ['iife'],
       name: 'core',
       fileName: 'core',
     },
